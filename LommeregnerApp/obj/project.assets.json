@@ -1531,11 +1531,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thoma\\source\\repos\\LommeregnerApp\\LommeregnerApp.csproj",
+      "projectUniqueName": "C:\\Users\\thoma\\Github\\4.-Semester-projekter\\LommeregnerApp\\LommeregnerApp.csproj",
       "projectName": "LommeregnerApp",
-      "projectPath": "C:\\Users\\thoma\\source\\repos\\LommeregnerApp\\LommeregnerApp.csproj",
+      "projectPath": "C:\\Users\\thoma\\Github\\4.-Semester-projekter\\LommeregnerApp\\LommeregnerApp.csproj",
       "packagesPath": "C:\\Users\\thoma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thoma\\source\\repos\\LommeregnerApp\\obj\\",
+      "outputPath": "C:\\Users\\thoma\\Github\\4.-Semester-projekter\\LommeregnerApp\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

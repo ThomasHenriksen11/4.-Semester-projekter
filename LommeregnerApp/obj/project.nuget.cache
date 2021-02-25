@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pp2KYx1L+VlBqLicM+FkMo5khmhtLmwc+Q8Rvre2gd6DMf3LJTyqgtruLhGbrjG3w3hC0+9BrCmVhcwluOR3fg==",
+  "dgSpecHash": "h8SDFRHR9XN3w+Ui6lY1vA/xC7R8wvxsoNa5sF5DK2ewbfyPGLsIiuhaKZ4/0gNhSG9qHdHnjKqLNyeQqALjJA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\thoma\\source\\repos\\LommeregnerApp\\LommeregnerApp.csproj",
+  "projectFilePath": "C:\\Users\\thoma\\Github\\4.-Semester-projekter\\LommeregnerApp\\LommeregnerApp.csproj",
   "expectedPackageFiles": [
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.runtime\\1.1.1.3\\xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",
